@@ -1,1 +1,4 @@
 .env
+botbro-backend/
+botbro-backend-backup/
+botbro-backend-clean/
